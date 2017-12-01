@@ -22,7 +22,7 @@ react-native init MyApp --version 0.44.3
 
 下载后替换：
 
-command+shift 输入.rncache ,打开.rncache目录，拖入以上四个文件
+打开finder,command+shift+g 输入.rncache ,打开.rncache目录，拖入以上四个文件
 
 然后删除第三方库文件，在 node_modules/react-native/third-party/ 目录下：
 rm -rf node_modules/react-native/third-part 
